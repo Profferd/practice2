@@ -1,0 +1,42 @@
+[
+  {
+    "formed": 2020,
+    "traffic_violations": [
+      {
+        "date_time": "2020-12-28 09:36:05",
+        "first_name": "Timur",
+        "last_name": "Petrov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+      },
+      {
+        "date_time": "2020-09-23 09:56:05",
+        "first_name": "Yegor",
+        "last_name": "Moskalenko",
+        "type": "LICENSE",
+        "fine_amount": 20400.00
+      },
+      {
+        "date_time": "2020-11-28 09:36:05",
+        "first_name": "Nikolay",
+        "last_name": "Koval",
+        "type": "LICENSE",
+        "fine_amount": 17000.00
+      },
+      {
+        "date_time": "2020-12-18 09:36:05",
+        "first_name": "Mariya",
+        "last_name": "Aleksandrova",
+        "type": "AUTOPILOT",
+        "fine_amount": 1700.00
+      },
+      {
+        "date_time": "2020-12-31 09:36:05",
+        "first_name": "Vitalina",
+        "last_name": "Ostapova",
+        "type": "PARKING",
+        "fine_amount": 1020.00
+      }
+    ]
+  }
+]

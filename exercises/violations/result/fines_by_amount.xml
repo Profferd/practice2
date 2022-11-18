@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<type>
+  <fine type="LICENSE">88400</fine>
+  <fine type="AUTOPILOT">23800</fine>
+  <fine type="DRUNK">22100</fine>
+  <fine type="PARKING">6460</fine>
+  <fine type="SPEEDING">1700</fine>
+</type>
+
